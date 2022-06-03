@@ -1,0 +1,23 @@
+header{
+    display: flex;
+
+}
+
+div ul{
+    display: flex;
+    list-style: none;
+    color: rgb(13, 99, 35);
+    padding: 30px;
+    margin: 20px;
+}
+
+main p{
+    text-align: center;
+    color: rgb(194, 134, 62);
+    
+}
+
+footer p{
+    text-align: center;
+    color: rgba(116, 116, 129, 0.774);
+}
